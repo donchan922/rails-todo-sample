@@ -1,24 +1,14 @@
-# README
+# todo
+Railsで作る簡単なToDoアプリケーションです。
+Rails初心者の方はぜひ手を動かして作ってみてください。
+きっとRailsの理解が深まるはずです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![1](https://user-images.githubusercontent.com/31620041/51025312-05b9ff80-15cf-11e9-8812-ba337415c49f.png)
 
-Things you may want to cover:
+## Usage
+以下記事に詳しく載せています。
 
-* Ruby version
+[Ruby on Railsで簡単なToDoアプリを作ってみる - Reasonable Code](https://reasonable-code.com/rails-todo/)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## License
+This software is released under the MIT License.
